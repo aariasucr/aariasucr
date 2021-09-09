@@ -13,5 +13,5 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aariasucr&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=nightowl" />
 </p>
 <p>
-<figure><embed src="https://wakatime.com/share/@aariasc/cf22e36e-79c5-4111-aaae-34056cd009ca.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aariasc/3a47a78c-96a6-425f-92cf-0b9a5c5fd58a.png" /></a>
 </p>

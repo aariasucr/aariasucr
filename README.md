@@ -13,7 +13,7 @@
 
 <h3>Top lenguajes de programación en la última semana</h3>
 <p align="center">
-<a href="https://wakatime.com"><img width="500px" src="https://wakatime.com/share/@aariasc/3a47a78c-96a6-425f-92cf-0b9a5c5fd58a.png" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@aariasc/3a47a78c-96a6-425f-92cf-0b9a5c5fd58a.png" /></a>
 </p>
 
 <h3>Badges</h3>

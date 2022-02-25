@@ -21,7 +21,7 @@
   <a href="https://www.credly.com/badges/e84fceba-0126-4135-8eb6-397a09879ea4">
     <img width="200px" src="https://images.credly.com/size/340x340/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png">
   </a>
-  <a href="https://cdn.qwiklabs.com/M7x2IjYxNZ3MmlAjrOp6yVJI%2FQ5vRE7GZHNqdo0pX5Y%3D">
+  <a href="https://www.qwiklabs.com/public_profiles/1f46ff11-2dca-4b9e-b16b-eb7c8e5f96d4/badges/1725845">
     <img width="200px" src="https://cdn.qwiklabs.com/M7x2IjYxNZ3MmlAjrOp6yVJI%2FQ5vRE7GZHNqdo0pX5Y%3D">
   </a>
 </p>

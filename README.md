@@ -24,4 +24,7 @@
   <a href="https://www.qwiklabs.com/public_profiles/1f46ff11-2dca-4b9e-b16b-eb7c8e5f96d4/badges/1725845">
     <img width="200px" src="https://cdn.qwiklabs.com/M7x2IjYxNZ3MmlAjrOp6yVJI%2FQ5vRE7GZHNqdo0pX5Y%3D">
   </a>
+  <a href="https://www.qwiklabs.com/public_profiles/1f46ff11-2dca-4b9e-b16b-eb7c8e5f96d4/badges/1737837">
+    <img width="200px" src="https://cdn.qwiklabs.com/uNHRMkNXK%2FhEudty0dwyLajq%2FnTQSpSX6qdmqUjvzro%3D">
+  </a>
 </p>

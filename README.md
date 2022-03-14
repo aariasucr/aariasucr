@@ -27,4 +27,7 @@
   <a href="https://www.qwiklabs.com/public_profiles/1f46ff11-2dca-4b9e-b16b-eb7c8e5f96d4/badges/1737837">
     <img width="200px" src="https://cdn.qwiklabs.com/uNHRMkNXK%2FhEudty0dwyLajq%2FnTQSpSX6qdmqUjvzro%3D">
   </a>
+  <a href="https://www.credential.net/3ed378e5-2a67-4382-bb64-3a65585325f4" >
+    <img width="200px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33449031" style="background-color:white;">
+  </a>
 </p>

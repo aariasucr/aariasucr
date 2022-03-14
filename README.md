@@ -17,7 +17,7 @@
 </p>
 
 <h3>Badges</h3>
-<p style="background-color:white;">
+<p>
   <a href="https://www.credly.com/badges/e84fceba-0126-4135-8eb6-397a09879ea4">
     <img width="200px" src="https://images.credly.com/size/340x340/images/bf588058-87cc-4cbd-94b0-ef0385fb4371/AWS-SysOpAdmin-Associate-2020.png">
   </a>
@@ -28,6 +28,6 @@
     <img width="200px" src="https://cdn.qwiklabs.com/uNHRMkNXK%2FhEudty0dwyLajq%2FnTQSpSX6qdmqUjvzro%3D">
   </a>
   <a href="https://www.credential.net/3ed378e5-2a67-4382-bb64-3a65585325f4" >
-    <img width="200px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33449031" >
+    <img width="200px" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/33449031" style="background-color:white;">
   </a>
 </p>
